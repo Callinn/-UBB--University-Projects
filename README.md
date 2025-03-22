@@ -12,8 +12,8 @@
 	⚡Sisteme Dinamice
 	📟Sisteme de Operare
 	📐Geometrie
-	Structuri de date si algoritmi
-	Algoritmica Grafurilor
+	💽Structuri de date si algoritmi
+	☊Algoritmica Grafurilor
 
 ## 📂 Semestrul 3
 	💾Baze de date
