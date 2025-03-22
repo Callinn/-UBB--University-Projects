@@ -26,6 +26,6 @@
 	#Sisteme de Gestiune a Bazelor de Date
 	#Ingineria Sistemelor Software
 	#Programare WEB
-	#📂AI (Inteligenta Artificiala)
+	#🤖AI (Inteligenta Artificiala)
 	#Medii de Proiectare si Programare
 
