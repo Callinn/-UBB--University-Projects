@@ -28,7 +28,7 @@
 
 # 📂 Semestrul 3
 
-Baze de date(https://github.com/Callinn/Baze-de-Date)
+💾[Baze de date](https://github.com/Callinn/Baze-de-Date)
 
 💻[Metode Avansate de Programare](https://github.com/Callinn/-MAP-Metode-Avansate-de-Programare)
 
@@ -42,11 +42,11 @@ Baze de date(https://github.com/Callinn/Baze-de-Date)
 
 🗄️Sisteme de Gestiune a Bazelor de Date
 
-⚙️Ingineria Sistemelor Software(https://github.com/Callinn/ISS)
+⚙️[Ingineria Sistemelor Software](https://github.com/Callinn/ISS)
 
 🌐Programare WEB
 
-🤖AI (Inteligenta Artificiala)(https://github.com/Callinn/AI)
+🤖A[AI(Inteligenta Artificiala)](https://github.com/Callinn/AI)
 
 🖥️Medii de Proiectare si Programare
 
