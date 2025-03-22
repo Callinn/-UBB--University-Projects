@@ -17,7 +17,7 @@
 
 ## 📂 Semestrul 3
 	💾Baze de date
-	💻Metode Avansate de Programare
+	💻[Metode Avansate de Programare](https://github.com/Callinn/-MAP-Metode-Avansate-de-Programare)
 	🦉Programare Logica si Functionala
 	📈Probabilitate si Statistica
 	🕸️Retele de Calculatoare
