@@ -28,7 +28,7 @@
 
 # 📂 Semestrul 3
 
-💾Baze de date(https://github.com/Callinn/Baze-de-Date)
+Baze de date(https://github.com/Callinn/Baze-de-Date)
 
 💻[Metode Avansate de Programare](https://github.com/Callinn/-MAP-Metode-Avansate-de-Programare)
 
